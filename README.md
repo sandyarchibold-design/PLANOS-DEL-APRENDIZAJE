@@ -1,7 +1,7 @@
 # 🌌 Planos del Aprendizaje: Armando el Circuito Comunicativo
 
 ### 🛰️ Título:
-*Plano comunicativo – Nave [Celula Matrix]*
+*Plano comunicativo – Nave [Celula VECTOR]*
 
 ---
 
