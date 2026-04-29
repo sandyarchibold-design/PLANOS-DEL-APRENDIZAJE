@@ -10,7 +10,7 @@
 
 | Nombre | Rol en el grupo | Correo / Contacto |
 |--------|---------------|-------------------|
-|Briseida|               |                   |
+|        |          |                   |
 |        |               |                   |
 |        |               |                   |
 |        |               |                   |
